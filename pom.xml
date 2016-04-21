@@ -3,8 +3,8 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.echosoft</groupId>
-    <artifactId>echosoft-common</artifactId>
-    <version>1.0.1</version>
+    <artifactId>common</artifactId>
+    <version>1.0.1.1</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -46,7 +46,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
